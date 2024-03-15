@@ -20,7 +20,7 @@ Join me on an adventure through the depths of code and creativity, where every l
 - 🚀 Dream big, they say - and my dream project is no exception! I aspire to create an AI robot and send it soaring into the cosmos, a testament to the fusion of technology and imagination.
 - 🌟 Currently, I'm immersing myself in the creation of a coaching website, a labor of love alongside my full-time internship. Exciting times ahead!
 
-Let's Connect! 🤝
+### Let's Connect! 🤝
 
 - 📫 Drop me a line at bookwormventures@gmail.com - let's dive into the depths of code, creativity, and collaboration!
 - 💬 Connect with me on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/mrudani-songade-b064b5234/) - let's explore new project ideas and ignite sparks of innovation!
