@@ -4,7 +4,7 @@ Join me on an adventure through the depths of code and creativity, where every l
 
 ### [About Me](https://www.linkedin.com/in/mrudani-songade-b064b5234/) 🌍
 
-- 📍 I've been delving into the realms of Flask, Django, React, React-Native and jQuery during my internship journey, exploring the vast landscapes of web development!
+- 📍 I've been delving into the realms of Flask, Django, React, React-Native and jQuery during my internship journey, exploring the vast landscapes of web & app development!
 - 🎓 Enthusiastic, perfectionist, and a little too prone to overthinking exceptions - that's the essence of my coding philosophy!
 - 💼 The next big frontiers on my horizon? Data, AI, and ML - where the mysteries of information meet the power of intelligence!
 - 🌟 Among my proudest moments? Participating in the DAIICT hackathon and showcasing my project at L.J. University's innovation fair - milestones that fuel my passion for innovation and collaboration!
